@@ -1,0 +1,665 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected
+END
+expected9_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strncpy
+END
+expected1_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strncat
+END
+expected5_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strncat
+END
+expected0_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strcpy
+END
+expected0_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strupper
+END
+expected1_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strupper
+END
+expected2_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strupper
+END
+expected2_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strcpy
+END
+expected1_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_countchar
+END
+expected9_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strncat
+END
+expected3_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strupper
+END
+expected4_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strupper
+END
+expected4_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strcpy
+END
+expected5_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strupper
+END
+expected6_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strcpy
+END
+expected6_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strupper
+END
+expected7_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strupper
+END
+expected5_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_countchar
+END
+expected8_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strupper
+END
+expected8_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strcpy
+END
+expected9_my_strupper
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strupper
+END
+expected2_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strdelete
+END
+expected1_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strinsert
+END
+expected9_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_countchar
+END
+expected0_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strcat
+END
+expected0_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strstr
+END
+expected6_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strdelete
+END
+expected2_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strcat
+END
+expected5_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strinsert
+END
+expected0_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strncpy
+END
+expected2_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strstr
+END
+expected4_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strcat
+END
+expected4_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strstr
+END
+expected9_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strinsert
+END
+expected4_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strncpy
+END
+expected6_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strcat
+END
+expected6_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strstr
+END
+expected1_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strlen
+END
+expected8_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strcat
+END
+expected8_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strstr
+END
+expected3_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strlen
+END
+expected8_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strncpy
+END
+expected5_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strlen
+END
+expected7_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strlen
+END
+expected0_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strncat
+END
+expected9_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strlen
+END
+expected4_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strncat
+END
+expected8_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strncat
+END
+expected2_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_countchar
+END
+expected6_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_countchar
+END
+expected3_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strdelete
+END
+expected2_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strinsert
+END
+expected7_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strdelete
+END
+expected6_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strinsert
+END
+expected3_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strncpy
+END
+expected7_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strncpy
+END
+expected3_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strncat
+END
+expected1_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strcpy
+END
+expected7_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strncat
+END
+expected3_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strcpy
+END
+expected3_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_countchar
+END
+expected5_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strcpy
+END
+expected7_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strcpy
+END
+expected0_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strdelete
+END
+expected7_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_countchar
+END
+expected9_my_strcpy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strcpy
+END
+expected4_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strdelete
+END
+expected3_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strinsert
+END
+expected1_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strcat
+END
+expected1_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strstr
+END
+expected8_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strdelete
+END
+expected3_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strcat
+END
+expected3_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strstr
+END
+expected7_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strinsert
+END
+expected2_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strncpy
+END
+expected5_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strcat
+END
+expected5_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strstr
+END
+expected7_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strcat
+END
+expected0_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strlen
+END
+expected7_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strstr
+END
+expected6_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strncpy
+END
+expected2_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strlen
+END
+expected9_my_strcat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strcat
+END
+expected9_my_strstr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strstr
+END
+expected4_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strlen
+END
+expected6_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strlen
+END
+expected8_my_strlen
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strlen
+END
+expected2_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strncat
+END
+expected0_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strlower
+END
+expected1_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strlower
+END
+expected2_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected2_my_strlower
+END
+expected3_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected3_my_strlower
+END
+expected6_my_strncat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strncat
+END
+expected4_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strlower
+END
+expected5_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strlower
+END
+expected0_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_countchar
+END
+expected6_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected6_my_strlower
+END
+expected7_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected7_my_strlower
+END
+expected8_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strlower
+END
+expected4_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_countchar
+END
+expected9_my_strlower
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strlower
+END
+expected1_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strdelete
+END
+expected0_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected0_my_strinsert
+END
+expected8_my_countchar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_countchar
+END
+expected5_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strdelete
+END
+expected4_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected4_my_strinsert
+END
+expected1_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected1_my_strncpy
+END
+expected9_my_strdelete
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected9_my_strdelete
+END
+expected8_my_strinsert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected8_my_strinsert
+END
+expected5_my_strncpy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/S2013/PA/PA05/expected/expected5_my_strncpy
+END
